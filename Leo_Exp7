@@ -23,7 +23,6 @@ int freqA(string str){ // function to count the occurance of a in the string
     return cnt;
 }
 int main(){
-    // Milan prakash
     cout<<" sub-string problem"<<endl;
     cout<<"enter the string =";
     string str;
@@ -35,4 +34,5 @@ int main(){
     generateStr(str,k);
     int cnt=freqA(str);
     cout<<cnt;
+// Code by Leo Franklin
 }
