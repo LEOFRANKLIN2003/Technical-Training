@@ -42,5 +42,5 @@ insertattail(head,tail,val);
 print(head);
 
 return 0;
-// code by Milan prakash
+// code by Leo Franklin
 }
