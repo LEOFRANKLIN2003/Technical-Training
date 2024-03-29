@@ -19,7 +19,6 @@ void preorder(Node* root){
     preorder(root->right);
 }
 int main(){
-    // milan prakash
     cout<<"pre order traversal :";
     
     // Constructing the sample binary tree
@@ -32,4 +31,5 @@ int main(){
  
  cout << "Preorder Traversal: ";
  preorder(root);
+// Code by Leo Franklin
 }
